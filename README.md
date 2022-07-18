@@ -23,4 +23,4 @@ github link : https://github.com/deb-boro/MyNotesApp
 
 ## Screenshot
 
-![Screenshot](https://github.com/deb-boro/my-weather-dashboard/blob/main/assets/images/MyWeatherDashboard.png?raw=true)
+![Screenshot](https://github.com/deb-boro/MyNotesApp/blob/main/public/Image%207-18-22%20at%201.08%20AM.jpg?raw=true)
